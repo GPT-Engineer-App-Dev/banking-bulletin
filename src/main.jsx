@@ -9,7 +9,7 @@ const colors = {
     800: "#153e75",
     700: "#2a69ac",
   },
-  background: "#f3f2ee" // Financial Times background color
+  background: "#fff1e5" // Updated Financial Times background color
 };
 
 const theme = extendTheme({ colors });
